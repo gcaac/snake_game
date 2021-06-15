@@ -1,6 +1,9 @@
-# Snake Game (Ou jogo da cobrinha!)
-# Jogo da cobrinha feito em python!
-# Por: Giulia Carvalho (2021)
+# Snake Game
+***Jogo da cobrinha feito em python!***
+
+***Por: Giulia Carvalho (2021)***
+
+
 
 Olá! Esse foi um jogo da cobrinha que eu fiz para testar a biblioteca pygame em python!
 
